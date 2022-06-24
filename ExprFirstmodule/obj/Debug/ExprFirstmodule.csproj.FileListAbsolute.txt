@@ -1,0 +1,8 @@
+D:\sharpLessons\UlearnProjects\ExprFirstmodule\ExprFirstmodule\bin\Debug\ExprFirstmodule.exe.config
+D:\sharpLessons\UlearnProjects\ExprFirstmodule\ExprFirstmodule\bin\Debug\ExprFirstmodule.exe
+D:\sharpLessons\UlearnProjects\ExprFirstmodule\ExprFirstmodule\bin\Debug\ExprFirstmodule.pdb
+D:\sharpLessons\UlearnProjects\ExprFirstmodule\ExprFirstmodule\obj\Debug\ExprFirstmodule.csproj.AssemblyReference.cache
+D:\sharpLessons\UlearnProjects\ExprFirstmodule\ExprFirstmodule\obj\Debug\ExprFirstmodule.csproj.SuggestedBindingRedirects.cache
+D:\sharpLessons\UlearnProjects\ExprFirstmodule\ExprFirstmodule\obj\Debug\ExprFirstmodule.csproj.CoreCompileInputs.cache
+D:\sharpLessons\UlearnProjects\ExprFirstmodule\ExprFirstmodule\obj\Debug\ExprFirstmodule.exe
+D:\sharpLessons\UlearnProjects\ExprFirstmodule\ExprFirstmodule\obj\Debug\ExprFirstmodule.pdb
