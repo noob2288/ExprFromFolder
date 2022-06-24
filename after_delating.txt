@@ -1,1 +1,2 @@
 I delate init_first, and add this file
+I add this line in web redactor
